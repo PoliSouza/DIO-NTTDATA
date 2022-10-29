@@ -1,2 +1,3 @@
 # DIO-NTTDATA
-Este repositor foi criado para a exibição dos resultados adquiridos com o aprendizado adquirido no Bootcamp da NTT Data em parceria com a DIO
+
+Este repositório foi criado, como uma forma de exibição dos resultados adquiridos com o aprendizado absorvido no Bootcamp da DIO em parceria com a NTT DATA.
